@@ -1065,6 +1065,7 @@ a.btn:focus{
 	.divider-short {
 		margin-top: 50px;
 		margin-bottom: 10px;
+        background-color: black;
 	}
 }
 
